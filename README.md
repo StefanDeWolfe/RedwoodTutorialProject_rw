@@ -2,11 +2,26 @@
 # RedwoodTutorialProject_rw
 Tutorial by Amy Dutton from Self Teach Me on YT, Master the Full-Stack: RedwoodJS Step-by-Step Guide.
 
+# Video 3
+Redwood generators tutorial.
+Created Page and Route with:
+```
+yarn rw g p feed
+yarn redwood generate page feed
+```
+Reviewed what was created, web/src/pages/FeedPage with files, and Route added in Routes.tsx
+
+
 # Video 2
 Reviewed the structure of the file tree.
+The api folder, the web/src folders and other environment/settings files.
 
 # Video 1
-Created the environment. Next video will get into the nitty gritties of developing this news site example.
+Installed Chocolatey.
+Installed NVM.
+Got Node.js v18.16.0
+Installed Yarn.
+Created the environment with yarn.
 
 # Redwood Base Page
 Welcome to [RedwoodJS](https://redwoodjs.com)!
