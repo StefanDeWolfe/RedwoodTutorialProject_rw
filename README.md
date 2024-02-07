@@ -2,15 +2,24 @@
 # RedwoodTutorialProject_rw
 Tutorial by Amy Dutton from Self Teach Me on YT, Master the Full-Stack: RedwoodJS Step-by-Step Guide.
 
+# Video 4
+Setup the Feed page as the home page in Routes.
+Changed the link to the Link page to shared-link.
+Change it again to a Dynamic link.
+Assigned Dynamic link to bottom of Routes so it would be found last.
+Modified Layout Pages to see what layouts within a page are visible
+Added prerender to routes of legal pages.
+
 # Video 3
 Redwood generators tutorial.
 Created Page and Route with:
 ```
-yarn rw g p feed
-yarn redwood generate page feed
-```
-Reviewed what was created, web/src/pages/FeedPage with files, and Route added in Routes.tsx
+yarn rw g p <page>
+yarn redwood generate page <page>
 
+yarn rw g layout <layout>
+```
+Reviewed what was created, web/src/pages with files, web/src/layouts with files, web/src/components with files, and Routes added in Routes.tsx
 
 # Video 2
 Reviewed the structure of the file tree.
