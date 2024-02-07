@@ -2,6 +2,14 @@
 # RedwoodTutorialProject_rw
 Tutorial by Amy Dutton from Self Teach Me on YT, Master the Full-Stack: RedwoodJS Step-by-Step Guide.
 
+# Video 5
+Used Yarn to add Tailwindcss.
+Reviewed changed files.
+Went to fonts.google.com. Looked up and imported Bebas 400, Inter 500 and 700 into index.css.
+Added font families to tailwind.config.js.
+Added colors to tailwind.config.js.
+Setup a className on Disclaimers page using new font and color.
+
 # Video 4
 Setup the Feed page as the home page in Routes.
 Changed the link to the Link page to shared-link.
