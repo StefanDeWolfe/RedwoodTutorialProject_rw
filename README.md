@@ -2,6 +2,9 @@
 # RedwoodTutorialProject_rw
 Tutorial by Amy Dutton from Self Teach Me on YT, Master the Full-Stack: RedwoodJS Step-by-Step Guide.
 
+# Video 1
+Created the environment. Next video will get into the nitty gritties of developing this news site example.
+
 # Redwood Base Page
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
